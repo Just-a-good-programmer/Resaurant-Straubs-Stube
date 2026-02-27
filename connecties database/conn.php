@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "user";
-$password = "";
+$password = "password";
 $dbname = "restaurant";
 
 try {
