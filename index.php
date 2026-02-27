@@ -89,7 +89,7 @@
 </main>
 
 <footer>
-    © 2026 Gasthaus Maxhof - München
+    <p>&copy; @2026 Straubs Stube. Alle rechten voorbehouden.</p>
 </footer>
 
 </body>
